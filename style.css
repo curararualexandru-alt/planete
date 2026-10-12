@@ -1,0 +1,116 @@
+body{
+    background-color: black;
+    color: white;
+}
+body{
+    margin: 0;
+    padding: 60px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.simbol {
+    font-size: 40px;
+    font-family: 'Orbitron', sans-serif;
+    margin: 1cm 2cm 1cm 3cm;
+}
+
+.dreptunchi{
+    width: auto;
+    height: 550px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(8, 8, 8);
+
+}
+
+.titul{
+    margin-right: 2cm;
+    margin-bottom: 2cm;
+}
+
+
+.planete{
+    width: 550px;
+    height: 300px;
+}
+
+.tit_vide{
+    color: rgb(0, 170, 255);
+    margin-left: 3cm;
+}
+
+.linie{
+height: 3px;
+width: 95%;
+background-color: rgb(184, 118, 24);
+border: 0px;
+margin-bottom: 1cm;
+}
+
+.soare{
+    height: 400px;
+    width: auto;
+    margin-bottom: 2cm;
+}
+
+
+
+.mercur{
+    height: 300px;
+    width: auto;
+    margin-bottom: 2cm;
+    margin-left: 67px;
+}
+
+.venus{
+    height: 330px;
+    width: auto;
+    margin-bottom: 2cm;
+    margin-left: 165px;
+}
+
+.pamant{
+    height: 360px;
+    width: auto;
+    margin-bottom: 2cm;
+    margin-left: 159px;
+}
+
+.marte{
+    height: 340px;
+    width: auto;
+    margin-bottom: 2cm;
+    margin-left: 22px;
+}
+
+.jupiter{
+    height: 300px;
+    width: auto;
+    margin-bottom: 2cm;
+    margin-left: 165px;
+}
+
+.saturn{
+    height: 300px;
+    width: auto;
+    margin-bottom: 2cm;
+    margin-left: 3px;
+}
+
+.uranus{
+    height: 320px;
+    width: auto;
+    margin-bottom: 2cm;
+    margin-left: 150px;
+}
+
+
+
+.neptun{
+    height: 300px;
+    width: auto;
+    margin-bottom: 2cm;
+    margin-left: 155px;
+}
